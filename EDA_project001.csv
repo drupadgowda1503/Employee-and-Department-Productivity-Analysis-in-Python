@@ -1,0 +1,41 @@
+PROJECT_NAME,EMPLOYEE_ID,HOURS_WORKED,TASKS_COMPLETED,DEPARTMENT,EMPLOYEE_NAME,DATE,STATUS,LOCATION
+Project A,1001,35,10,Engineering,John Doe,11/1/2024,Completed,New York
+Project B,1002,40,12,Marketing,Jane Smith,11/2/2024,In Progress,California
+Project A,1003,30,8,Engineering,Chris Johnson,11/2/2024,Completed,Boston
+Project C,1004,25,5,Design,Susan Lee,11/3/2024,Not Started,Texas
+Project B,1001,28,9,Marketing,John Doe,11/4/2024,In Progress,New York
+Project D,1005,50,14,Sales,Michael Brown,11/5/2024,Completed,Florida
+Project C,1002,20,6,Design,Jane Smith,11/6/2024,In Progress,California
+Project A,1004,37,11,Engineering,Susan Lee,11/7/2024,Completed,Texas
+Project D,1003,32,10,Sales,Chris Johnson,11/8/2024,In Progress,Boston
+Project B,1005,42,13,Marketing,Michael Brown,11/9/2024,Completed,Florida
+Project C,1001,38,12,Design,John Doe,11/10/2024,Completed,New York
+Project D,1002,45,15,Sales,Jane Smith,11/11/2024,In Progress,California
+Project A,1005,30,9,Engineering,Michael Brown,11/12/2024,Not Started,Florida
+Project C,1003,40,13,Design,Chris Johnson,11/13/2024,Completed,Boston
+Project D,1004,25,7,Sales,Susan Lee,11/14/2024,In Progress,Texas
+Project A,1002,30,11,Engineering,Jane Smith,11/15/2024,In Progress,California
+Project B,1004,32,9,Marketing,Susan Lee,11/16/2024,Completed,Texas
+Project D,1001,40,13,Sales,John Doe,11/17/2024,In Progress,New York
+Project C,1005,28,8,Design,Michael Brown,11/18/2024,Completed,Florida
+Project A,1003,38,12,Engineering,Chris Johnson,11/19/2024,In Progress,Boston
+Project B,1002,44,15,Marketing,Jane Smith,11/20/2024,Completed,California
+Project C,1004,25,6,Design,Susan Lee,11/21/2024,Not Started,Texas
+Project D,1001,30,10,Sales,John Doe,11/22/2024,In Progress,New York
+Project A,1005,42,14,Engineering,Michael Brown,11/23/2024,Completed,Florida
+Project B,1003,28,8,Marketing,Chris Johnson,11/24/2024,In Progress,Boston
+Project D,1004,35,12,Sales,Susan Lee,11/25/2024,In Progress,Texas
+Project A,1002,50,16,Engineering,Jane Smith,11/26/2024,Completed,California
+Project B,1005,40,14,Marketing,Michael Brown,11/27/2024,Completed,Florida
+Project C,1001,32,10,Design,John Doe,11/28/2024,In Progress,New York
+Project D,1003,37,13,Sales,Chris Johnson,11/29/2024,Completed,Boston
+Project A,1004,33,11,Engineering,Susan Lee,11/30/2024,Completed,Texas
+Project B,1002,38,12,Marketing,Jane Smith,12/1/2024,In Progress,California
+Project C,1005,45,14,Design,Michael Brown,12/2/2024,Completed,Florida
+Project D,1001,40,13,Sales,John Doe,12/3/2024,In Progress,New York
+Project A,1003,30,9,Engineering,Chris Johnson,12/4/2024,Completed,Boston
+Project B,1004,37,11,Marketing,Susan Lee,12/5/2024,In Progress,Texas
+Project C,1002,32,10,Design,Jane Smith,12/6/2024,Completed,California
+Project D,1005,42,14,Sales,Michael Brown,12/7/2024,In Progress,Florida
+Project A,1001,28,7,Engineering,John Doe,12/8/2024,In Progress,New York
+Project B,1003,45,16,Marketing,Chris Johnson,12/9/2024,Completed,Boston
